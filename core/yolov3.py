@@ -13,10 +13,10 @@
 
 import numpy as np
 import tensorflow as tf
-import core.utils as utils
-import core.common as common
-import core.backbone as backbone
-from core.config import cfg
+import tensorflow_yolov3.core.utils as utils
+import tensorflow_yolov3.core.common as common
+import tensorflow_yolov3.core.backbone as backbone
+from tensorflow_yolov3.core.config import cfg
 
 
 class YOLOV3(object):
