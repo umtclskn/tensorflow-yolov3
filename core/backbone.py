@@ -11,7 +11,7 @@
 #
 #================================================================
 
-import tensorflow_yolov3.core.common as common
+import core.common as common
 import tensorflow as tf
 
 
